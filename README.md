@@ -156,11 +156,11 @@ Here, we will RDP into the Windows VM, disable the Windows firewall protections,
 </p>
 
 <p>
-14.
+14. Select Install, and verify the Installation.
 </p>
 <p>
-<img src="https://i.imgur.com/nEAU8Vl.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/Lik9hK6.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IS4GI03.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/C7PMX9W.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
 
