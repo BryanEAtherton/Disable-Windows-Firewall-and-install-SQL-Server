@@ -144,15 +144,15 @@ Here, we will RDP into the Windows VM, disable the Windows firewall protections,
 </p>
 <p>
 <img src="https://i.imgur.com/XM3bqUE.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/Lik9hK6.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PnrZsqj.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-13.
+13. Select Mixed Mode, set a password, then select Add current user, and click Next.
 </p>
 <p>
-<img src="https://i.imgur.com/nEAU8Vl.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/Lik9hK6.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wnigx0l.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vSWpTvg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
