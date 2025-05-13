@@ -29,7 +29,7 @@ Here, we will RDP into the Windows VM, disable the Windows firewall protections,
 
 
 <p>
-2. RDP into the Windows VM, open Windows Defender Firewall, and select WIndows Defender Firewall Properties. 
+2. RDP into the Windows VM, open Windows Defender Firewall, and select Windows Defender Firewall Properties. 
 </p>
 <p>
 <img src="https://i.imgur.com/UZYoWJY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
