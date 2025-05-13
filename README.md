@@ -140,7 +140,15 @@ Here, we will RDP into the Windows VM, disable the Windows firewall protections,
 </p>
 
 <p>
-10.
+12. Click Next through the following 2 screens.
+</p>
+<p>
+<img src="https://i.imgur.com/XM3bqUE.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Lik9hK6.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+13.
 </p>
 <p>
 <img src="https://i.imgur.com/nEAU8Vl.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
@@ -148,15 +156,7 @@ Here, we will RDP into the Windows VM, disable the Windows firewall protections,
 </p>
 
 <p>
-10.
-</p>
-<p>
-<img src="https://i.imgur.com/nEAU8Vl.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/Lik9hK6.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
-10.
+14.
 </p>
 <p>
 <img src="https://i.imgur.com/nEAU8Vl.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
