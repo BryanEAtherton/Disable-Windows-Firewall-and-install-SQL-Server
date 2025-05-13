@@ -16,7 +16,7 @@ Here, we will RDP into the Windows VM, disable the Windows firewall protections,
 
  
 
-<h2> DIsable Windows Firewall Protections </h2>
+<h2> Disable Windows Firewall Protections </h2>
 
 
 <br />
@@ -49,16 +49,60 @@ Here, we will RDP into the Windows VM, disable the Windows firewall protections,
 </p>
 
 <p>   
-4. Repeat the process in step 2 for the Windows VM by deleting the RDP inbound rule.
+4. Windows will show an alert message that the Firewall is off, and Ping attempts on the Windows VM will now be successful.
+</p>
 <p>
-<img src="https://i.imgur.com/vYFfEl4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MLI0f2I.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zfCSDTh.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+
+<br />
+
+<h2> Install and configure SQL Server </h2>
+
+<br />
+
+<p>
+1. In the Windows VM, Google search for SQL Server Evaluation Center and select.
+</p>
+<p>
+<img src="https://i.imgur.com/uhujolq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+2. Repeat step 3 for the Windows VM and create a new rule to allow all traffic into the VM.
+</p>
+<p>
+<img src="https://i.imgur.com/EoHjiaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+3. Repeat step 3 for the Windows VM and create a new rule to allow all traffic into the VM.
+</p>
+<p>
+<img src="https://i.imgur.com/EoHjiaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+4. Repeat step 3 for the Windows VM and create a new rule to allow all traffic into the VM.
+</p>
+<p>
+<img src="https://i.imgur.com/EoHjiaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
 5. Repeat step 3 for the Windows VM and create a new rule to allow all traffic into the VM.
+</p>
 <p>
 <img src="https://i.imgur.com/EoHjiaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 <p>
+6. Repeat step 3 for the Windows VM and create a new rule to allow all traffic into the VM.
+</p>
+<p>
+<img src="https://i.imgur.com/EoHjiaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 [Click here to return to the Security Project 1 Homepage](https://github.com/BryanEAtherton/Security-Project-1)
 </p>
