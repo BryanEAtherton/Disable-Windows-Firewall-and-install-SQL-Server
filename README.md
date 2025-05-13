@@ -109,7 +109,7 @@ Here, we will RDP into the Windows VM, disable the Windows firewall protections,
 </p>
 
 <p>
-8. Select Installation then select "New SQL Server stand-alone installation or add features to an existing installation."
+8. Select Installation, then select "New SQL Server stand-alone installation or add features to an existing installation."
 </p>
 <p>
 <img src="https://i.imgur.com/JJ1Tcyj.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
@@ -117,18 +117,50 @@ Here, we will RDP into the Windows VM, disable the Windows firewall protections,
 
 
 <p>
-7. 
+9. On the next screen, leave the free edition as an Evaluation and click Next.
 </p>
 <p>
-<img src="https://i.imgur.com/o7gwKUB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6CBgssU.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 
 
 <p>
-7. 
+10. Check the box to accept the license and terms, and click Next. Then click Next on the next screen.
 </p>
 <p>
-<img src="https://i.imgur.com/o7gwKUB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nEAU8Vl.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Lik9hK6.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+11. Under Instance Features, check the box for Database Engine Services, then click Next.
+</p>
+<p>
+<img src="https://i.imgur.com/LX3PTBm.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+10.
+</p>
+<p>
+<img src="https://i.imgur.com/nEAU8Vl.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Lik9hK6.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+10.
+</p>
+<p>
+<img src="https://i.imgur.com/nEAU8Vl.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Lik9hK6.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+10.
+</p>
+<p>
+<img src="https://i.imgur.com/nEAU8Vl.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Lik9hK6.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
 
