@@ -87,25 +87,50 @@ Here, we will RDP into the Windows VM, disable the Windows firewall protections,
 </p>
 
 <p>
-5. Download the ISO version to the Desktop of the Windows VM.
+5. Download the ISO version to the Desktop of the Windows VM. Once downloaded, open the folder.
 </p>
 <p>
-<img src="https://i.imgur.com/FAKDVvR.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FAKDVvR.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/v55u2n9.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-6. 
+6. Right-click the icon and select "Mount."
 </p>
 <p>
-<img src="https://i.imgur.com/EoHjiaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tSgXqL3.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+7. Select Setup from the list.
+</p>
+<p>
+<img src="https://i.imgur.com/o7gwKUB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+8. Select Installation then select "New SQL Server stand-alone installation or add features to an existing installation."
+</p>
+<p>
+<img src="https://i.imgur.com/JJ1Tcyj.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+
 
 <p>
 7. 
 </p>
 <p>
-<img src="https://i.imgur.com/EoHjiaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o7gwKUB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
+
+
+<p>
+7. 
+</p>
+<p>
+<img src="https://i.imgur.com/o7gwKUB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+
 
 [Click here to return to the Security Project 1 Homepage](https://github.com/BryanEAtherton/Security-Project-1)
 </p>
