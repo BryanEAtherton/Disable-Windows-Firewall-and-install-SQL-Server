@@ -64,16 +64,19 @@ Here, we will RDP into the Windows VM, disable the Windows firewall protections,
 
 <p>
 1. In the Windows VM, Google search for SQL Server Evaluation Center and select.
+ </p>
+2. Fill out all required information for the free trial and select Download.
 </p>
 <p>
-<img src="https://i.imgur.com/uhujolq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uhujolq.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/ALmsvry.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-2. Repeat step 3 for the Windows VM and create a new rule to allow all traffic into the VM.
+3. Fill out all required information for the free trial and select Download.
 </p>
 <p>
-<img src="https://i.imgur.com/EoHjiaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ALmsvry.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
