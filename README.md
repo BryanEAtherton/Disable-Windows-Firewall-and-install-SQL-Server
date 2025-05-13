@@ -64,7 +64,8 @@ Here, we will RDP into the Windows VM, disable the Windows firewall protections,
 
 <p>
 1. In the Windows VM, Google search for SQL Server Evaluation Center and select.
- </p>
+</p>
+<p>
 2. Fill out all required information for the free trial and select Download.
 </p>
 <p>
@@ -73,35 +74,34 @@ Here, we will RDP into the Windows VM, disable the Windows firewall protections,
 </p>
 
 <p>
-3. Fill out all required information for the free trial and select Download.
+3. Select the "64-bit edition EXE" and open the download.
 </p>
 <p>
-<img src="https://i.imgur.com/ALmsvry.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vWK5nbF.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-3. Repeat step 3 for the Windows VM and create a new rule to allow all traffic into the VM.
+4. Select the "Download Media" option.
+<p>
+<img src="https://i.imgur.com/zSOb7ZI.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+5. Download the ISO version to the Desktop of the Windows VM.
+</p>
+<p>
+<img src="https://i.imgur.com/FAKDVvR.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+6. 
 </p>
 <p>
 <img src="https://i.imgur.com/EoHjiaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-4. Repeat step 3 for the Windows VM and create a new rule to allow all traffic into the VM.
-</p>
-<p>
-<img src="https://i.imgur.com/EoHjiaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
-5. Repeat step 3 for the Windows VM and create a new rule to allow all traffic into the VM.
-</p>
-<p>
-<img src="https://i.imgur.com/EoHjiaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
-6. Repeat step 3 for the Windows VM and create a new rule to allow all traffic into the VM.
+7. 
 </p>
 <p>
 <img src="https://i.imgur.com/EoHjiaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
