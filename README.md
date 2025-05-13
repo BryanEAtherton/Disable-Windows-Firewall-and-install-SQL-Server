@@ -41,11 +41,11 @@ Here, we will RDP into the Windows VM, disable the Windows firewall protections,
 
 
 <p>
- 3. Create a new rule to allow all traffic into the VM.
+ 3. On the Domain, Public, and Private tabs, turn the firewall state to "off." Then select Apply, then Ok.
 </p>
 <p>
-<img src="https://i.imgur.com/3NPTV98.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/8iTnSg6.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ArXHVD8.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yHe1C81.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>   
