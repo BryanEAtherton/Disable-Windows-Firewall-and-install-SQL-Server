@@ -12,7 +12,6 @@ Here, we will install and configure SQL Server. This will add another program to
 
 - Windows 10
 - SQL Server
-- Command Prompt
 
  
 
